@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
+
     float a, b;
 
     cout << "Enter first number: ";
@@ -16,4 +16,5 @@ int main()
     cout << "Sum = " << sum << endl;
 
     return 0;
+
 }
